@@ -25,4 +25,14 @@
 3. см [схему DM](https://miro.com/app/board/uXjVNrIqZ4Q=/?moveToWidget=3458764579742223471&cot=14)
 4. см п3
 5. см [схему Services](https://miro.com/app/board/uXjVNrIqZ4Q=/?moveToWidget=3458764579767646244&cot=14)
-6. inprogress
+6. см п5
+   1. синим бизнес события передаваемые между сервисами через очередь
+   2. направление стрелок обозначает продюсера -> консюмера
+7. см п5
+   1. красным это CUD события
+   2. по данным это:
+      1. UserId
+      2. Token
+      3. ФИО
+      4. email
+      5. и role
